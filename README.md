@@ -1,2 +1,5 @@
-# astro-ml-stellar-classification
-A comparative study and implementation of three supervised learning algorithms—Multilayer Perceptron, Support Vector Classifier, and Decision Tree—for six-class stellar classification on real astrophysical data, including preprocessing, model training, evaluation, and analysis of overfitting dynamics.
+# Stellar Classification with MLP, SVC & Decision Trees
+
+This repository contains code and documentation for a comparative study of three supervised learning models---Multilayer Perceptron (MLP), Support Vector Classifier (SVC), and Decision Tree (DT)---applied to a six-class stellar classification problem. The mapping from stellar parameters (temperature, luminosity, radius, absolute magnitude, colour, spectral class) to class labels is automated, model performance is evaluated, and over-fitting behaviours are analysed.
+
+For detailed methodology, experiments, and theoretical background, see the full documentation:
